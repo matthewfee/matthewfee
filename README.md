@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Matthew Fee. I'm a web developer and philosopher with a focus in front-end.
+My name is Matthew Fee. I'm a web developer and philosopher with a focus in front-end apps.
 
 #### :octocat: Notable repos ...
 
