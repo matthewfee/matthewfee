@@ -12,7 +12,7 @@ Developing proficiency in Redux and Context. I'm also working on Typescript.
 
 #### 💬 I love to talk about ...
 
-Anything related to design patterns in React, tabletop role-playing games, 
+Anything related to design patterns in React, state management, and tabletop role-playing games.
 
 #### 📫 How to reach me ...
 
