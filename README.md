@@ -3,7 +3,8 @@
 My name is Matthew Fee. I'm a web developer and philosopher with a focus in front-end apps.
 
 
-## My languages and tools
+### My languages and tools
+
 <p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -92,19 +93,19 @@ My name is Matthew Fee. I'm a web developer and philosopher with a focus in fron
 </p>
 
 
-#### :octocat: Notable repos ...
+### :octocat: Notable repos ...
 
 - [OSE Character Generator](https://github.com/matthewfee/OSECharacterGeneratorr): A Dungeons and Dragons Character generator, built in React. Guides players through the process of character creation, rolls 3d-dice, and outputs their character details into an official character sheet PDF.
 
-#### 🔭 I’m currently working on ...
+### 🔭 I’m currently working on ...
 
 Developing proficiency in Redux and Context. I'm also working on Typescript. 
 
-#### 💬 I love to talk about ...
+### 💬 I love to talk about ...
 
 Anything related to design patterns in React, state management, and tabletop role-playing games.
 
-#### 📫 How to reach me ...
+### 📫 How to reach me ...
 
 I'm on on [LinkedIn](https://www.linkedin.com/in/matthew-fee-733160140/). I also  blog about role-playing games on my [RPG site](https://eviltables.dev/).
 
