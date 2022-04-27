@@ -99,7 +99,7 @@ Anything related to design patterns in React, state management, and tabletop rol
 
 ### 🐛 How to reach me ...
 
-I'm on on [LinkedIn](https://www.linkedin.com/in/matthew-fee-733160140/). I also  blog about role-playing games on my [RPG site](https://eviltables.dev/).
+I'm on [LinkedIn](https://www.linkedin.com/in/matthew-fee-733160140/). I also  blog about role-playing games on my [RPG site](https://eviltables.dev/).
 
 <!--**matthewfee.matthewfee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
