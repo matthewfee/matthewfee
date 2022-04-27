@@ -87,7 +87,7 @@ My name is Matthew Fee. I'm a web developer and philosopher with a focus in fron
 
 ### 🏰 Notable repos ...
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐉 - [OSE Character Generator](https://github.com/matthewfee/OSECharacterGeneratorr): A Dungeons and Dragons Character generator, built in React. Guides players through the process of character creation, rolls 3d-dice, and outputs their character details into an official character sheet PDF.
+- [OSE Character Generator](https://github.com/matthewfee/OSECharacterGeneratorr) 🐉 : A Dungeons and Dragons Character generator, built in React. Guides players through the process of character creation, rolls 3d-dice, and outputs their character details into an official character sheet PDF.
 
 ### 🌲 I’m currently working on ... 
 
