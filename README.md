@@ -28,7 +28,7 @@ My name is Matthew Fee. I'm a web developer and philosopher with a focus in fron
   </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
       alt="css3"
       width="40"
       height="40"
