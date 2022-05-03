@@ -88,11 +88,11 @@ My name is Matthew Fee. I'm a web developer and philosopher with a focus in fron
 ### 🏰 Notable repos ...
 
 - [OSE Character Generator](https://github.com/matthewfee/OSECharacterGenerator) 🐉 : A Dungeons and Dragons Character generator, built in React. Guides players through the process of character creation, rolls 3d-dice, and outputs their character details into an official character sheet PDF.
+- [Meetmax](https://github.com/MyRoWARE/social-network/tree/main/pages) - A social media clone using React, Nextjs, Tailwind, Firebase, Storybook, and Recoil
 
 ### 🌲 I’m currently working on ... 
 
-- [Meetmax](https://github.com/MyRoWARE/social-network/tree/main/pages) - A  social media clone using React, Nextjs, Tailwind, Firebase, and Recoil
-- Developing proficiency in Redux and Context. I'm also working on Typescript. 
+- Developing further proficiency in Redux and Context. I'm also working on Typescript. 
 
 ### 🍃 I love to talk about ...
 
