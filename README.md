@@ -97,7 +97,7 @@ My name is Matthew Fee. I'm a web developer and philosopher with a focus in fron
 
 ### 🍃 I love to talk about ...
 
-Anything related to design patterns in React, state management, and tabletop role-playing games.
+Anything related to React, front-end web dev, and tabletop role-playing games.
 
 ### 🐛 How to reach me ...
 
