@@ -87,7 +87,7 @@ My name is Matthew Fee. I'm a web developer and philosopher with a focus in fron
 
 ### 🏰 Notable repos ...
 
-- [OSE Character Generator](https://github.com/matthewfee/OSECharacterGenerator) 🐉 : A Dungeons and Dragons Character generator, built in React. Guides players through the process of character creation, rolls 3d-dice, and outputs their character details into an official character sheet PDF.
+- [OSE Character Generator](https://github.com/matthewfee/OSECharacterGenerator) 🐉 : A Dungeons and Dragons Character generator, built in React. Guides players through the process of character creation, rolls 3d-dice, and outputs their character details into an official character sheet PDF. Over 50,000 characters rolled to date
 - [Type Contest](https://github.com/matthewfee/typingchallenge) 🐢 : A full-stack typing game that tests your response times to type differnet symbols. Built in React using Typescript as the front-end. High scores are stored through Airtable and managed through serverless functions, and user-authentication is provided through  Auth0.
 
 
