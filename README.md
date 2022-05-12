@@ -84,7 +84,7 @@ https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png
+      src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"
       alt="mongodb"
       width="40"
       height="40"
