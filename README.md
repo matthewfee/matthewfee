@@ -60,7 +60,7 @@ https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://kyan-2015.s3.eu-west-1.amazonaws.com/production-2018/uploads/news_entry/image/255/large_news_size_next-js-header.jpg"
+      src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
       alt="nextjs"
       width="40"
       height="40"
