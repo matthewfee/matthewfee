@@ -61,9 +61,10 @@ https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
-      alt="react"
+      alt="nextjs"
       width="40"
       height="40"
+      style="background-color: white"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
