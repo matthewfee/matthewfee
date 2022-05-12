@@ -76,7 +76,7 @@ https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png"
       alt="nodejs"
       width="40"
       height="40"
