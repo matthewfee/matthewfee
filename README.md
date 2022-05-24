@@ -1,7 +1,6 @@
 ### Hi there 
 
 My name is Matthew Fee. I'm a web developer and philosopher with a focus in front-end.
-https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg
 
 ### 🚲 My languages and tools
 
