@@ -100,7 +100,7 @@ My name is Matthew Fee. I'm a web developer and philosopher with a focus in fron
 
 ### 🌲 I’m currently working on ... 
 
-- [Meetmax](https://github.com/MyRoWARE/social-network/tree/main/pages) ❄️ - A social media clone using React, Nextjs, Tailwind, Firebase, Storybook, and Recoil
+- [Second Brain Social Media](https://github.com/matthewfee/Second-Brain-Social-Media) ❄️ - A social media site for developers using React, Nextjs, Tailwind, Firebase, Storybook, and Recoil
 - Developing further proficiency with Redux and Typescript. 
 
 ### 🍃 I love to talk about ...
