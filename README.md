@@ -89,9 +89,9 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="40"
     />
   </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://firebase.google.com/"
+      src="https://static.cdnlogo.com/logos/f/48/firebase.svg"
       alt="firebase"
       width="40"
       height="40"
