@@ -25,7 +25,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="40"
     />
   </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a href="https://css-tricks.com/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
       alt="css3"
@@ -89,6 +89,15 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="40"
     />
   </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://firebase.google.com/"
+      alt="firebase"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"
