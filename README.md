@@ -5,6 +5,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
 ### 🚲 My languages and tools
 
 <p align="left">
+  JavaScript
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
