@@ -120,7 +120,7 @@ Firebase |
       height="25"
     />
   </a>
-    MongoDB
+MongoDB |
     
    <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img
