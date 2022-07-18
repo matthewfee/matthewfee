@@ -117,7 +117,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
 
 ### 🌲 I’m currently working on ... 
 
-- [Second Brain](https://github.com/matthewfee/Second-Brain-Social-Media) ❄️ - A social media site for developers using React, Nextjs, Tailwind, Firebase, Storybook, and Recoil
+- [Second Brain](https://github.com/matthewfee/Second-Brain-Social-Media) ❄️ - A social media site using React, Nextjs, Tailwind, Firebase, and Storybook
 - Developing further proficiency with Redux and Typescript. 
 
 ### 🍃 I love to talk about ...
