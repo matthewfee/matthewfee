@@ -46,7 +46,6 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
     />
   </a>
   CSS3
-  <br>
 <a href="https://css-tricks.com/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
@@ -82,6 +81,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="20"
     />
   </a>
+   <br>
   Next.js
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
