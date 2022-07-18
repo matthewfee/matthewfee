@@ -102,15 +102,15 @@ CSS3 |
   </a>
     Node.js |
 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://static.cdnlogo.com/logos/f/48/firebase.svg"
       alt="firebase"
       width="20"
       height="20"
     />
-  </a>
-    Firebase |
+</a>
+Firebase |
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
