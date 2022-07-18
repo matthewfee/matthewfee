@@ -14,8 +14,8 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
-      height="40"
+      width="20"
+      height="20"
     />
   </a>
   Typescript
@@ -23,8 +23,8 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
-      width="40"
-      height="40"
+      width="20"
+      height="20"
     />
   </a>
   React
