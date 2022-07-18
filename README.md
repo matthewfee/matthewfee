@@ -13,8 +13,8 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="20"
-      height="20"
+      width="25"
+      height="25"
     />
   </a>
  Javascript | 
@@ -23,8 +23,8 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
-      width="20"
-      height="20"
+      width="25"
+      height="25"
     />
   </a>
 Typescript |
@@ -32,8 +32,8 @@ Typescript |
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="20"
-      height="20"
+      width="25"
+      height="25"
     />
 </a>
 React |
@@ -41,8 +41,8 @@ React |
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"
       alt="vue"
-      width="20"
-      height="20"
+      width="25"
+      height="25"
     />
 </a>
 Vue |
@@ -50,8 +50,8 @@ Vue |
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
       alt="css3"
-      width="20"
-      height="20"
+      width="25"
+      height="25"
     />
 </a>
 CSS3 |
@@ -59,8 +59,8 @@ CSS3 |
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
-      width="20"
-      height="20"
+      width="25"
+      height="25"
     />
   </a>
 HTML |
@@ -68,8 +68,8 @@ HTML |
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap"
-      width="20"
-      height="20"
+      width="25"
+      height="25"
     />
 </a>
   Bootstrap
@@ -78,8 +78,8 @@ HTML |
     <img
       src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.e0b2bd6155fa0bed8e24ff6b28f4a911.svg"
       alt="tailwind"
-      width="20"
-      height="20"
+      width="25"
+      height="25"
     />
   </a>
   TailwindCSS |
@@ -87,8 +87,8 @@ HTML |
     <img
       src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
       alt="nextjs"
-      width="20"
-      height="20"
+      width="25"
+      height="25"
     />
   </a>
   Next.js |
@@ -96,8 +96,8 @@ HTML |
     <img
       src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png"
       alt="nodejs"
-      width="20"
-      height="20"
+      width="25"
+      height="25"
     />
   </a>
     Node.js |
@@ -106,8 +106,8 @@ HTML |
     <img
       src="https://static.cdnlogo.com/logos/f/48/firebase.svg"
       alt="firebase"
-      width="20"
-      height="20"
+      width="25"
+      height="25"
     />
 </a>
 Firebase |
@@ -116,11 +116,22 @@ Firebase |
     <img
       src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"
       alt="mongodb"
-      width="20"
-      height="20"
+      width="25"
+      height="25"
     />
   </a>
     MongoDB
+    
+   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png"
+      alt="jest"
+      width="25"
+      height="25"
+    />
+  </a>
+    
+
 </sub>
 
 
