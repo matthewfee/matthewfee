@@ -55,6 +55,15 @@ Vue |
     />
 </a>
 CSS3 |
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="20"
+      height="20"
+    />
+  </a>
+HTML |
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -74,15 +83,6 @@ CSS3 |
     />
   </a>
   TailwindCSS |
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="20"
-      height="20"
-    />
-  </a>
-  HTML |
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
