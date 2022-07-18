@@ -5,7 +5,6 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
 ### 🚲 My languages and tools
 
 <sub align="left">
-  Javascript
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -17,8 +16,9 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       width="20"
       height="20"
     />
+    Javascript | 
   </a>
-  Typescript
+
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -26,6 +26,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       width="20"
       height="20"
     />
+     Typescript |
   </a>
   React
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
