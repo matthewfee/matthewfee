@@ -64,6 +64,7 @@ CSS3 |
     />
 </a>
   Bootstrap
+<br>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.e0b2bd6155fa0bed8e24ff6b28f4a911.svg"
@@ -72,7 +73,6 @@ CSS3 |
       height="20"
     />
   </a>
-  <br>
   TailwindCSS |
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
