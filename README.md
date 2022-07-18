@@ -5,7 +5,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
 ### 🚲 My languages and tools
 
 <p align="left">
-  JavaScript
+  Javascript
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -18,6 +18,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="40"
     />
   </a>
+  Typescript
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -26,6 +27,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="40"
     />
   </a>
+  React
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -34,6 +36,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="40"
     />
   </a>
+  Vue
    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"
@@ -42,6 +45,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="40"
     />
   </a>
+  CSS3
 <a href="https://css-tricks.com/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
@@ -50,6 +54,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="40"
     />
   </a>
+  Bootstrap
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -58,6 +63,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="40"
     />
   </a>
+  TailwindCSS
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.e0b2bd6155fa0bed8e24ff6b28f4a911.svg"
@@ -66,6 +72,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="40"
     />
   </a>
+  HTML
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -74,6 +81,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="40"
     />
   </a>
+  Next.js
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
@@ -82,6 +90,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="40"
     />
   </a>
+  Node.js
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png"
@@ -90,6 +99,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="40"
     />
   </a>
+  Firebase
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://static.cdnlogo.com/logos/f/48/firebase.svg"
@@ -98,7 +108,7 @@ My name is Matthew Fee. I'm a web developer with a focus in front-end.
       height="40"
     />
   </a>
-  
+  MongoDB
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"
