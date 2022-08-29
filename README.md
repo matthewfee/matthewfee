@@ -149,7 +149,7 @@ MongoDB |
 
 ### 🍃 I love to talk about ...
 
-Anything related to React, front-end web dev, and tabletop role-playing games.
+Anything related to front-end web dev, philosophy, and tabletop role-playing games.
 
 ### 🐛 How to reach me ...
 
