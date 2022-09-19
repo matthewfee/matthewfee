@@ -153,7 +153,7 @@ Anything related to front-end web dev, philosophy, and tabletop role-playing gam
 
 ### 🐛 How to reach me ...
 
-I'm on [LinkedIn](https://www.linkedin.com/in/matthew-fee-733160140/). I also  blog about tabletop role-playing games on my [RPG site](https://eviltables.dev/).
+I'm on [LinkedIn](https://www.linkedin.com/in/matthew-fee-733160140/). 
 
 <!--**matthewfee.matthewfee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
