@@ -142,11 +142,6 @@ MongoDB |
 - [Type Contest](https://github.com/matthewfee/typingchallenge) 🐢 : A full-stack typing game that tests your response times to type different words. Built with React and Typescript. High scores are stored through Airtable and managed through serverless functions, and user-authentication is provided through Auth0.
 
 
-### 🌲 I’m currently working on ... 
-
-- [Second Brain](https://github.com/matthewfee/Second-Brain-Social-Media) ❄️ - A social media site using React, Nextjs, Tailwind, Firebase, and Storybook
-- Developing further proficiency with Redux and Typescript. 
-
 ### 🍃 I love to talk about ...
 
 Anything related to front-end web dev, philosophy, and tabletop role-playing games.
