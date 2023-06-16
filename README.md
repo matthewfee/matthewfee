@@ -85,7 +85,7 @@ HTML |
   TailwindCSS |
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.e0b2bd6155fa0bed8e24ff6b28f4a911.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg"
       alt="nextjs"
       width="25"
       height="25"
@@ -94,7 +94,7 @@ HTML |
   Next.js |
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png?20170401104355"
       alt="nodejs"
       width="25"
       height="25"
