@@ -85,7 +85,7 @@ HTML |
   TailwindCSS |
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
+      src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.e0b2bd6155fa0bed8e24ff6b28f4a911.svg"
       alt="nextjs"
       width="25"
       height="25"
