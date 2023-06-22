@@ -64,15 +64,6 @@ CSS3 |
     />
   </a>
 HTML |
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="25"
-      height="25"
-    />
-</a>
-  Bootstrap
 <br>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
