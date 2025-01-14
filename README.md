@@ -135,7 +135,7 @@ MongoDB |
 
 ### 🍂 I'm currently working on ...
 
-- [Dolmenwood Character Generator](https://github.com/matthewfee/dolmenwood_vite) 🍄 : A new Dolmenwood character generator, made with Typescript, React, and Zustand, made as a reward for the $750K [Kickstarter](https://www.kickstarter.com/projects/exaltedfuneral/dolmenwood-tabletop-rpg) stretch goal.
+- [Dolmenwood Character Generator](https://github.com/matthewfee/dolmenwood_character_generator/tree/main) 🍄 : A new Dolmenwood character generator, made with Typescript, React, and Zustand, made as a reward for the [Kickstarter](https://www.kickstarter.com/projects/exaltedfuneral/dolmenwood-tabletop-rpg) stretch goal.
 
 ### 🍃 I love to talk about ...
 
