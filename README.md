@@ -1,6 +1,6 @@
 ### Hi there 
 
-My name is Matthew Fee. I'm a web developer with a focus in front-end.
+My name is Matthew Fee. I'm a software engineer with a focus in frontend web applications.
 
 ### 🚲 My languages and tools
 
