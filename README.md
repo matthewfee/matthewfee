@@ -1,8 +1,8 @@
-### Hi there 
+#### About
 
-My name is Matthew Fee. I'm a software engineer with a focus in frontend applications.
+My name is Matthew Fee. I'm a philosophy PhD turned software engineer, with a focus in frontend apps.
 
-### 🚲 My languages and tools
+#### 🚲 Languages and tools
 
 <sub align="left">
   <a
@@ -104,16 +104,13 @@ HTML |
   Jest
 </sub>
 
-### 🏰 Some repos ...
+#### 🏰 Repos
 
 - [OSE Character Generator](https://github.com/matthewfee/OSECharacterGenerator) 🐉 : A Dungeons and Dragons Character generator, built in React. Guides players through the process of character creation, rolls 3d-dice, and outputs their character details into an official character sheet PDF. Over 50,000 characters rolled to date
-- [Type Contest](https://github.com/matthewfee/typingchallenge) 🐢 : A full-stack typing game that tests your response times to type different words. Built with React and Typescript. High scores are stored through Airtable and managed through serverless functions, and user-authentication is provided through Auth0.
+- [Dolmenwood Character Generator](https://www.dolmenwood.necroticgnome.com/characters/) 🐢 : A character generator for the Dolmenwood RPG.
 
-### 🍃 I love to talk about ...
 
-Anything related to front-end web dev, philosophy, and tabletop role-playing games.
-
-### 🐛 How to reach me ...
+#### 🐛 How to reach me ...
 
 <a href="mailto:matthewefee@gmail.com">Email</a>
 
