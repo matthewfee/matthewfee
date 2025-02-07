@@ -1,6 +1,6 @@
 ### Hi there 
 
-My name is Matthew Fee. I'm a software engineer with a focus in frontend web applications.
+My name is Matthew Fee. I'm a software engineer with a focus in frontend applications.
 
 ### 🚲 My languages and tools
 
@@ -92,26 +92,6 @@ HTML |
     />
   </a>
     Node.js |
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://static.cdnlogo.com/logos/f/48/firebase.svg"
-      alt="firebase"
-      width="25"
-      height="25"
-    />
-</a>
-Firebase |
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"
-      alt="mongodb"
-      width="25"
-      height="25"
-    />
-  </a>
-MongoDB |
     
    <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img
@@ -122,19 +102,12 @@ MongoDB |
     />
   </a>
   Jest
-    
-
 </sub>
 
-
-### 🏰 Notable repos ...
+### 🏰 Some repos ...
 
 - [OSE Character Generator](https://github.com/matthewfee/OSECharacterGenerator) 🐉 : A Dungeons and Dragons Character generator, built in React. Guides players through the process of character creation, rolls 3d-dice, and outputs their character details into an official character sheet PDF. Over 50,000 characters rolled to date
 - [Type Contest](https://github.com/matthewfee/typingchallenge) 🐢 : A full-stack typing game that tests your response times to type different words. Built with React and Typescript. High scores are stored through Airtable and managed through serverless functions, and user-authentication is provided through Auth0.
-
-### 🍂 I'm currently working on ...
-
-- [Dolmenwood Character Generator](https://github.com/matthewfee/dolmenwood_character_generator/tree/main) 🍄 : A new Dolmenwood character generator, made with Typescript, React, and Zustand, made as a reward for the [Kickstarter](https://www.kickstarter.com/projects/exaltedfuneral/dolmenwood-tabletop-rpg) stretch goal.
 
 ### 🍃 I love to talk about ...
 
@@ -142,20 +115,8 @@ Anything related to front-end web dev, philosophy, and tabletop role-playing gam
 
 ### 🐛 How to reach me ...
 
-I'm on [LinkedIn](https://www.linkedin.com/in/matthew-fee-733160140/). 
+<a href="mailto:matthewefee@gmail.com">Email</a>
 
-<!--**matthewfee.matthewfee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ----
