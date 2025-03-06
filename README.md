@@ -1,6 +1,6 @@
 #### About
 
-My name is Matthew Fee. I'm a philosophy PhD turned software engineer, with a focus in frontend apps.
+My name is Matthew Fee. I'm a software engineer with a focus in frontend apps.
 
 #### 🚲 Languages and tools
 
