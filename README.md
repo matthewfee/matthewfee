@@ -110,7 +110,7 @@ HTML |
 
 #### Hobbies
 
-I enjoy tabletop RPGs (e.g. Dungeons and Dragons), metaphysical debates, and weird poetry.
+I enjoy tabletop RPGs (e.g. Dungeons and Dragons), metaphysical debates, and poetry.
 
 #### How to reach me ...
 
