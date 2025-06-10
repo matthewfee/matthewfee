@@ -108,10 +108,6 @@ HTML |
 - [OSE Character Generator](https://github.com/matthewfee/OSECharacterGenerator) 🐉 : A Dungeons and Dragons Character generator, built in React. Guides players through the process of character creation, rolls 3d-dice, and outputs their character details into an official character sheet PDF. Over 50,000 characters rolled to date
 - [Dolmenwood Character Generator](https://www.dolmenwood.necroticgnome.com/characters/) 🐢 : A character generator for the Dolmenwood RPG.
 
-#### Hobbies
-
-I enjoy tabletop RPGs (e.g. Dungeons and Dragons), metaphysical debates, and poetry.
-
 #### How to reach me ...
 
 <a href="mailto:matthewefee@gmail.com">Email</a>
