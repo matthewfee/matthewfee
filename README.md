@@ -1,8 +1,6 @@
 #### About
 
-My name is Matthew Fee. I'm a software engineer with a focus in web applications. Before starting in engineering, I completed a PhD in philosophy at the University of Memphis.
-
-#### Languages and tools
+My name is Matthew Fee. I'm a software engineer with a focus in web applications.
 
 <sub align="left">
   <a
