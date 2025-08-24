@@ -1,6 +1,6 @@
 #### About
 
-My name is Matthew Fee. I'm a software engineer with a focus in web applications.
+My name is Matthew Fee.
 
 <sub align="left">
   <a
