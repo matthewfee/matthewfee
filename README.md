@@ -105,9 +105,9 @@ HTML |
 
 #### Repos
 
-- [OSE Character Generator](https://github.com/matthewfee/OSECharacterGenerator) 🐉 : A Dungeons and Dragons Character generator, built in React. Guides players through the process of character creation, rolls 3d-dice, and outputs their character details into an official character sheet PDF. Over 50,000 characters rolled to date
-- [Dolmenwood Character Generator](https://www.dolmenwood.necroticgnome.com/characters/) 🐢 : A character generator for the Dolmenwood RPG. Created as a reward for the [$700K Kickstarter Stretch goal](https://www.kickstarter.com/projects/exaltedfuneral/dolmenwood-tabletop-rpg).
 - [Antarctica Jam Map](https://aaj-map.netlify.app/) ❄️: A live geomap of fantasy Antarctica, built for the [Antarctica Adventure Jam](https://itch.io/jam/antarctica-jam). Technologies used include GitLab pipelines, React, Leaflet, and QGIS.
+- [Dolmenwood Character Generator](https://www.dolmenwood.necroticgnome.com/characters/) 🐢 : A character generator for the Dolmenwood RPG. Created as a reward for the [$700K Kickstarter Stretch goal](https://www.kickstarter.com/projects/exaltedfuneral/dolmenwood-tabletop-rpg).
+- [OSE Character Generator](https://github.com/matthewfee/OSECharacterGenerator) 🐉 : A Dungeons and Dragons Character generator, built in React. Guides players through the process of character creation, rolls 3d-dice, and outputs their character details into an official character sheet PDF. Over 50,000 characters rolled to date
 
 #### How to reach me ...
 
